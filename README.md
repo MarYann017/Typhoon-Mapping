@@ -46,7 +46,7 @@ The system's predictive model and overall quality have been rigorously evaluated
     * Start **Apache** and **MySQL** from the XAMPP Control Panel.
 
 3.  **Database Configuration:**
-    * Create a database named `typhoon_db` in **phpMyAdmin**.
+    * Create a database named `evacuation_shelter` in **phpMyAdmin**.
     * Import the `.sql` file found in the `/database` directory.
 
 4.  **Hardware Requirements:**
