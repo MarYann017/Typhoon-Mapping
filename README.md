@@ -26,7 +26,7 @@ The system's predictive model and overall quality have been rigorously evaluated
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML5, CSS3, **Vanilla JavaScript (ES6+)**
+* **Frontend:** HTML5, CSS3, Vanilla js
 * **Mapping:** Leaflet.js, OpenStreetMap API
 * **Backend:** PHP (Apache/XAMPP)
 * **Database:** MySQL (Relational) & IndexedDB (Offline Storage)
