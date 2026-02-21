@@ -1,0 +1,57 @@
+[
+    {
+        "hotline_id": 1,
+        "agency_name": "Bureau of Fire Protection",
+        "agency_code": "BFP",
+        "phone_number": "0961-178-4598",
+        "description": "Fire emergencies, rescue operations, and fire safety",
+        "is_active": 1,
+        "priority_order": 1,
+        "created_at": "2026-02-20 21:58:07",
+        "updated_at": null
+    },
+    {
+        "hotline_id": 2,
+        "agency_name": "Provincial Disaster Risk Reduction and Management Office",
+        "agency_code": "PDRRMO",
+        "phone_number": "0912-670-7777",
+        "description": "Provincial disaster response and coordination",
+        "is_active": 1,
+        "priority_order": 2,
+        "created_at": "2026-02-20 21:58:07",
+        "updated_at": null
+    },
+    {
+        "hotline_id": 3,
+        "agency_name": "Municipal Disaster Risk Reduction and Management Office",
+        "agency_code": "MDRRMO",
+        "phone_number": "0921-425-6862",
+        "description": "Municipal disaster response and coordination",
+        "is_active": 1,
+        "priority_order": 3,
+        "created_at": "2026-02-20 21:58:07",
+        "updated_at": null
+    },
+    {
+        "hotline_id": 4,
+        "agency_name": "Philippine Red Cross",
+        "agency_code": "RED CROSS",
+        "phone_number": "0917-806-8528",
+        "description": "Emergency medical services, disaster relief, and humanitarian aid",
+        "is_active": 1,
+        "priority_order": 4,
+        "created_at": "2026-02-20 21:58:07",
+        "updated_at": null
+    },
+    {
+        "hotline_id": 5,
+        "agency_name": "Philippine Coast Guard",
+        "agency_code": "COAST GUARD",
+        "phone_number": "0947-325-7245",
+        "description": "Maritime emergencies, search and rescue operations",
+        "is_active": 1,
+        "priority_order": 5,
+        "created_at": "2026-02-20 21:58:07",
+        "updated_at": null
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "polygon_id": 5,
+        "name": "Flood Brgy A",
+        "hazard_type": "flood",
+        "coordinates": "[[13.5958951,124.2116132],[13.5870518,124.2012706],[13.5933089,124.2013779],[13.5855501,124.2052188],[13.5901387,124.2081585],[13.5958951,124.211184],[13.5901387,124.2063055],[13.5953197,124.2170343],[13.5883952,124.2099533],[13.5901387,124.2063055]]",
+        "fill_color": "purple",
+        "stroke_color": "purple",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 6,
+        "name": "Flood Brgy B",
+        "hazard_type": "flood",
+        "coordinates": "[[13.5707823,124.1961594],[13.5693639,124.2040559],[13.5723258,124.2131968],[13.5772484,124.2184325]]",
+        "fill_color": "purple",
+        "stroke_color": "purple",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 7,
+        "name": "Flood Brgy C",
+        "hazard_type": "flood",
+        "coordinates": "[[13.5890616,124.241744],[13.5892075,124.2423233],[13.5923152,124.2454132],[13.5934415,124.2488894]]",
+        "fill_color": "purple",
+        "stroke_color": "purple",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 8,
+        "name": "Flood Brgy D",
+        "hazard_type": "flood",
+        "coordinates": "[[13.5877188,124.2420822],[13.5897002,124.2458802],[13.5903885,124.2468458],[13.5908891,124.2482835]]",
+        "fill_color": "purple",
+        "stroke_color": "purple",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 9,
+        "name": "Flood Brgy E",
+        "hazard_type": "flood",
+        "coordinates": "[[13.5717346,124.2175162],[13.5696905,124.2161214],[13.5686684,124.22037],[13.5711923,124.2164004],[13.5674586,124.2172372],[13.5717346,124.2175162]]",
+        "fill_color": "purple",
+        "stroke_color": "purple",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 1,
+        "name": "Landslide Brgy A",
+        "hazard_type": "landslide",
+        "coordinates": "[[13.6038386,124.2116132],[13.6034423,124.2012706],[13.5961636,124.2013779],[13.596101,124.2052188],[13.5949956,124.2081585],[13.5960802,124.211184],[13.5988332,124.2161193]]",
+        "fill_color": "orange",
+        "stroke_color": "orange",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 2,
+        "name": "Landslide Brgy B",
+        "hazard_type": "landslide",
+        "coordinates": "[[13.6029337,124.2167419],[13.5975112,124.2168707],[13.5972609,124.2194456],[13.5980951,124.2220634],[13.6005144,124.2245954],[13.6018492,124.227342],[13.6011401,124.2332214],[13.6020161,124.2353672],[13.6058952,124.2352814],[13.6029337,124.2167419]]",
+        "fill_color": "orange",
+        "stroke_color": "orange",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 3,
+        "name": "Landslide Brgy C",
+        "hazard_type": "landslide",
+        "coordinates": "[[13.6046856,124.219746],[13.6027669,124.2196173],[13.6015155,124.219746],[13.6012235,124.2215485],[13.6008481,124.2226643],[13.601307,124.2230934],[13.6020578,124.2226643],[13.6039765,124.222278],[13.6051027,124.2223639],[13.6046856,124.219746]]",
+        "fill_color": "orange",
+        "stroke_color": "orange",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 4,
+        "name": "Landslide Brgy D",
+        "hazard_type": "landslide",
+        "coordinates": "[[13.6039418,124.227857],[13.6017311,124.2280716],[13.6014808,124.2295307],[13.6024402,124.2308611],[13.6033161,124.2300457],[13.6048595,124.2310757],[13.6056937,124.2311615],[13.6061942,124.2293591],[13.6039418,124.227857]]",
+        "fill_color": "orange",
+        "stroke_color": "orange",
+        "fill_opacity": "0.40",
+        "weight": 2
+    },
+    {
+        "polygon_id": 10,
+        "name": "Liquefaction Brgy A",
+        "hazard_type": "liquefaction",
+        "coordinates": "[[13.5882534,124.2043922],[13.5820796,124.2076538],[13.5817876,124.1993711],[13.5882534,124.2043922]]",
+        "fill_color": "yellow",
+        "stroke_color": "yellow",
+        "fill_opacity": "0.80",
+        "weight": 2
+    },
+    {
+        "polygon_id": 11,
+        "name": "Liquefaction Brgy B",
+        "hazard_type": "liquefaction",
+        "coordinates": "[[13.5781323,124.2204618],[13.5747116,124.2240237],[13.5769643,124.2252683],[13.5781323,124.2204618],[13.5761717,124.2221784],[13.5755042,124.2263841],[13.5767974,124.2234658]]",
+        "fill_color": "yellow",
+        "stroke_color": "yellow",
+        "fill_opacity": "0.80",
+        "weight": 2
+    },
+    {
+        "polygon_id": 12,
+        "name": "Storm Surge Area",
+        "hazard_type": "storm_surge",
+        "coordinates": "[[13.5908123,124.2182214],[13.5863347,124.2208832],[13.5834921,124.2146517],[13.5880248,124.2120913]]",
+        "fill_color": "blue",
+        "stroke_color": "blue",
+        "fill_opacity": "0.35",
+        "weight": 2
+    }
+]

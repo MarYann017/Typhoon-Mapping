@@ -1,0 +1,32 @@
+[
+    {
+        "disaster_id": 1,
+        "name": "Typhoon Odette",
+        "type": "Typhoon",
+        "start_date": "2021-12-16",
+        "end_date": "2021-12-20",
+        "severity": "Severe",
+        "description": "Super typhoon with sustained winds of 195 km\/h",
+        "created_at": "2026-02-20 21:58:07"
+    },
+    {
+        "disaster_id": 2,
+        "name": "Flood Alert Level 2",
+        "type": "Flood",
+        "start_date": "2023-11-15",
+        "end_date": null,
+        "severity": "Moderate",
+        "description": "Heavy rainfall causing localized flooding",
+        "created_at": "2026-02-20 21:58:07"
+    },
+    {
+        "disaster_id": 3,
+        "name": "Earthquake 6.5 Magnitude",
+        "type": "Earthquake",
+        "start_date": "2023-10-20",
+        "end_date": null,
+        "severity": "High",
+        "description": "Strong earthquake affecting multiple areas",
+        "created_at": "2026-02-20 21:58:07"
+    }
+]

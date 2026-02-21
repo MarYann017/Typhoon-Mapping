@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Database / config
+app/Db.php
+api/
+
+# Composer
+/vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error.log
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Node modules (if any)
+node_modules/
